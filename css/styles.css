@@ -14,7 +14,7 @@ body > .wrapper:after, .main:after {
     visibility:hidden;
 }
 .img-responsive {
-    display: block;
+    display: inline-block;
     height: auto;
 }
 nav {
